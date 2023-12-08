@@ -6,4 +6,3 @@ Basically, it a chronometer  with display of hours, minutes, seconds and millese
 
 <img scr="https://github.com/AR097/Cronometro-Timer/blob/main/Gif%20slides%20images.gif" alt="">
 
-<img src="https://github.com/AR097/Cronometro-Timer/blob/main/img/Display%20Timer.png" alt="Timer Display">
